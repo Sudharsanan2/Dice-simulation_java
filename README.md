@@ -25,7 +25,10 @@ It mimics the behavior of rolling real dice, which is useful in games, simulatio
 # Example Output:
 
 Enter the no of dice: 4
+
 Hey User! You rolled:
+
 3 6 2 5 
+
 Total: 16
 
